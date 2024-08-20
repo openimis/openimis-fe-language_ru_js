@@ -1392,5 +1392,9 @@
     "workerVoucher.additionalFields.activity_place": "Тип деятельности",
     "workerVoucher.additionalFields.negotiated_remuneration": "Договорная оплата",
     "resetFilterTooltip": "Обновление критериев поиска",
-    "refreshFilterTooltip": "Искать снова"
+    "refreshFilterTooltip": "Искать снова",
+    "core.LanguageQuickPicker.dialog.title": "Подтвердите язык",
+    "core.LanguageQuickPicker.dialog.message": "Вы собираетесь изменить язык на {language}. Вы хотите продолжить?",
+    "core.LanguageQuickPicker.dialog.confirm": "Подтвердить",
+    "core.LanguageQuickPicker.dialog.cancel": "Отмена"
 }
