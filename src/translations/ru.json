@@ -1287,8 +1287,8 @@
     "workerVoucher.worker.warning.limit": "ПРЕДУПРЕЖДЕНИЕ",
     "workerVoucher.worker.warning.limitReached": "Работник достиг максимального количества назначенных ваучеров на этот календарный год, что составляет {limit}.",
     "workerVoucher.worker.code": "ИДНП работника",
-    "workerVoucher.worker.lastName": "Имя работника",
-    "workerVoucher.worker.otherNames": "Фамилия работника",
+    "workerVoucher.worker.lastName": "Фамилия работника",
+    "workerVoucher.worker.otherNames": "Имя работника",
     "workerVoucher.worker.dob": "Дата рождения работника",
     "workerVoucher.status": "Статус",
     "workerVoucher.assignedDate": "Дата выдачи",
@@ -1349,7 +1349,7 @@
     "workerVoucher.assign.confirmation": "Подтверждая присвоение ваучера, я подтверждаю, что прочитал и согласен с условиями и правилами.",
     "workerVoucher.vouchers.required": "Для продолжения необходимо заполнить все поля",
     "workerVoucher.WorkerMultiplePicker.placeholder": "Поиск работника",
-    "workerVoucher.WorkerMultiplePicker.underThreshold": "Введите минимум 3 символа для начала поиска",
+    "workerVoucher.WorkerMultiplePicker.underThreshold": "Введите не менее 3 символов из Национального ID, имени работника или фамилии",
     "workerVoucher.WorkerMultiplePicker.noOptions": "Не найдено результатов",
     "workerVoucher.WorkerMultiplePicker.checkbox.label": "Показать только работников, с которыми я работал раньше",
     "workerVoucher.WorkerDateRangePicker.startDate": "Дата начала",
@@ -1396,5 +1396,6 @@
     "core.LanguageQuickPicker.dialog.title": "Подтвердите язык",
     "core.LanguageQuickPicker.dialog.message": "Вы собираетесь изменить язык на {language}. Вы хотите продолжить?",
     "core.LanguageQuickPicker.dialog.confirm": "Подтвердить",
-    "core.LanguageQuickPicker.dialog.cancel": "Отмена"
+    "core.LanguageQuickPicker.dialog.cancel": "Отмена",
+    "workerVoucher.workerImport.allWorkers": "Добавить всех работников"
 }
