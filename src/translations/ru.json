@@ -1349,7 +1349,7 @@
     "workerVoucher.assign.confirmation": "Подтверждая присвоение ваучера, я подтверждаю, что прочитал и согласен с условиями и правилами.",
     "workerVoucher.vouchers.required": "Для продолжения необходимо заполнить все поля",
     "workerVoucher.WorkerMultiplePicker.placeholder": "Поиск работника",
-    "workerVoucher.WorkerMultiplePicker.underThreshold": "Введите минимум 3 цифры ИДНП",
+    "workerVoucher.WorkerMultiplePicker.underThreshold": "Введите минимум 3 символа для начала поиска",
     "workerVoucher.WorkerMultiplePicker.noOptions": "Не найдено результатов",
     "workerVoucher.WorkerMultiplePicker.checkbox.label": "Показать только работников, с которыми я работал раньше",
     "workerVoucher.WorkerDateRangePicker.startDate": "Дата начала",
