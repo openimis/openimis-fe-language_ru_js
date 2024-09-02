@@ -496,8 +496,8 @@
         "selection.count": "Selected {count} bill(s)"
     },
     "bills": {
-        "pageTitle": "Purchase invoices",
-        "searcherResultsTitle": "{billsTotalCount} Purchase invoices Found"
+        "pageTitle": "Счета на покупку",
+        "searcherResultsTitle": "Найдено {billsTotalCount} счетов на покупку"
     },
     "billItems": {
         "label": "элементы ряда",
@@ -1399,5 +1399,19 @@
     "core.LanguageQuickPicker.dialog.message": "Вы собираетесь изменить язык на {language}. Вы хотите продолжить?",
     "core.LanguageQuickPicker.dialog.confirm": "Подтвердить",
     "core.LanguageQuickPicker.dialog.cancel": "Отмена",
-    "workerVoucher.workerImport.allWorkers": "Добавить всех работников"
+    "workerVoucher.workerImport.allWorkers": "Добавить всех работников",
+    "workerVoucher.WorkerMConnectAddForm.title": "Работник",
+    "workerVoucher.WorkerMConnectAddForm.error": "Работник не найден. Убедитесь, что национальный идентификатор введен правильно, и попробуйте снова.",
+    "workerVoucher.WorkerMConnectAddForm.serverError": "Не удалось получить данные о работнике. Внутренняя ошибка сервера.",
+    "workerVoucher.WorkerMConnectAddForm.preview": "Предпросмотр работника",
+    "workerVoucher.WorkerMConnectAddForm.search": "Поиск",
+    "workerVoucher.WorkerMConnectAddForm.notFound": "Работник не найден. Убедитесь, что национальный идентификатор введен правильно, и попробуйте снова.",
+    "workerVoucher.WorkerMConnectAddForm.tip": "Как работодатель, вы можете добавить работника в систему, найдя его по национальному идентификатору. Как только работник будет найден, вы можете сохранить форму и добавить его в список ваших работников.",
+    "workerVoucher.WorkerMConnectAddForm.detail": "Введите национальный идентификатор работника, чтобы получить его данные. Убедитесь, что национальный идентификатор введен правильно.",
+    "policyHolder.EconomicUnitPicker.label": "Экономическая единица",
+    "policyHolder.selectEconomicUnit.title": "Выберите экономическую единицу",
+    "policyHolder.selectEconomicUnit.message": "Выберите экономическую единицу, с которой хотите работать.",
+    "policyHolder.selectEconomicUnit.confirm": "Подтвердить",
+    "policyHolder.selectEconomicUnit.logout": "Выйти",
+    "policyHolder.EconomicUnitChangeButton.tooltip": "Сменить экономическую единицу"
 }
