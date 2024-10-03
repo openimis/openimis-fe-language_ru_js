@@ -1413,5 +1413,10 @@
     "policyHolder.selectEconomicUnit.message": "Выберите экономическую единицу, с которой хотите работать.",
     "policyHolder.selectEconomicUnit.confirm": "Подтвердить",
     "policyHolder.selectEconomicUnit.logout": "Выйти",
-    "policyHolder.EconomicUnitChangeButton.tooltip": "Сменить экономическую единицу"
+    "policyHolder.EconomicUnitChangeButton.tooltip": "Сменить экономическую единицу",
+    "workerVoucher.menu.voucherAcquirementSuccess": "Успешное приобретение ваучера",
+    "workerVoucher.menu.voucherAssignmentSuccess": "Успешное назначение ваучера",
+    "workerVoucher.VoucherAcquirementForm.genericVoucherConfirmation": "Вы успешно приобрели {quantity} ваучер(ов). Ваучеры будут готовы для назначения после подтверждения оплаты. Платежный шлюз открылся в новой вкладке. Если вы случайно закрыли его, пожалуйста, нажмите «Оплатить с MPay» на странице счета, чтобы открыть его снова.",
+    "workerVoucher.VoucherAcquirementForm.specificVoucherConfirmation": "Вы успешно приобрели ваучеры для выбранных работников. Ваучеры будут готовы для назначения после подтверждения оплаты. Платежный шлюз открылся в новой вкладке. Если вы случайно закрыли его, пожалуйста, нажмите «Оплатить с MPay» на странице счета, чтобы открыть его снова.",
+    "workerVoucher.VoucherAssignmentForm.assignmentConfirmation": "Вы успешно назначили ваучер(ы) выбранным работникам."
 }
