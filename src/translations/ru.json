@@ -1418,5 +1418,7 @@
     "workerVoucher.menu.voucherAssignmentSuccess": "Успешное назначение ваучера",
     "workerVoucher.VoucherAcquirementForm.genericVoucherConfirmation": "Вы успешно приобрели {quantity} ваучер(ов). Ваучеры будут готовы для назначения после подтверждения оплаты. Платежный шлюз открылся в новой вкладке. Если вы случайно закрыли его, пожалуйста, нажмите «Оплатить с MPay» на странице счета, чтобы открыть его снова.",
     "workerVoucher.VoucherAcquirementForm.specificVoucherConfirmation": "Вы успешно приобрели ваучеры для выбранных работников. Ваучеры будут готовы для назначения после подтверждения оплаты. Платежный шлюз открылся в новой вкладке. Если вы случайно закрыли его, пожалуйста, нажмите «Оплатить с MPay» на странице счета, чтобы открыть его снова.",
-    "workerVoucher.VoucherAssignmentForm.assignmentConfirmation": "Вы успешно назначили ваучер(ы) выбранным работникам."
+    "workerVoucher.VoucherAssignmentForm.assignmentConfirmation": "Вы успешно назначили ваучер(ы) выбранным работникам.",
+    "core.LoginPage.backButton": "Назад",
+    "moldovaLanding.LoginButtonLabel": "Войти"
 }
