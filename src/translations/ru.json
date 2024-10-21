@@ -385,6 +385,7 @@
     "emptyLabel": " ",
     "any": "Любой",
     "editButtonTooltip": "Редактировать",
+    "viewDetailsButtonTooltip": "Просмотреть детали",
     "deleteButtonTooltip": "Удалить",
     "dialog": {
         "create": "Создать",
@@ -1428,7 +1429,9 @@
     "workerVoucher.WorkerSearcherSelectActions.dialog.abandon": "Отмена",
     "workerVoucher.menu.groupList": "Группы",
     "workerVoucher.group.new": "Новая группа",
-    "workerVoucher.group.edit": "Редактировать группу {name}",
+    "workerVoucher.group.edit": "Редактировать группу",
+    "workerVoucher.save": "Сохранить",
+    "workerVoucher.add": "Добавить",
     "workerVoucher.tooltip.edit": "Редактировать",
     "workerVoucher.GroupsPage.addTooltip": "Добавить группу",
     "workerVoucher.GroupSearcher.groupName": "Название группы",
