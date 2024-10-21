@@ -1464,5 +1464,9 @@
     "workerVoucher.UploadWorkerModal.workerUploadError": "Не удалось загрузить работников. Пожалуйста, убедитесь, что содержимое файла корректно, и попробуйте снова.",
     "workerVoucher.UploadWorkerModal.workerUploadWarning": "Некоторые работники были пропущены. Вы можете скачать список пропущенных работников, нажав на кнопку ниже.",
     "workerVoucher.UploadWorkerModal.downloadWorkersWithError": "Скачать ошибки и закрыть",
-    "core.LoginPage.loginCaption": "Аутентификация через"
+    "core.LoginPage.loginCaption": "Аутентификация через",
+    "workerVoucher.GroupDetailsPage.mutation.success": "Ваши изменения были успешно сохранены.",
+    "workerVoucher.GroupDetailsPage.mutation.error": "Произошла ошибка при сохранении изменений. {detail}",
+    "workerVoucher.GroupDetailsPage.delete.success": "Группа была успешно удалена.",
+    "workerVoucher.GroupDetailsPage.delete.error": "Произошла ошибка при удалении группы. {detail}"
 }
