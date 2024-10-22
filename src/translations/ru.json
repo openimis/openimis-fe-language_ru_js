@@ -1362,7 +1362,7 @@
     "workerVoucher.WorkerDateRangePicker.dateRange": "Период на валидност",
     "workerVoucher.WorkerDateRangePicker.dateRanges": "Срок Действия Ваучера: *",
     "workerVoucher.WorkerDateRangePicker.selectDate": "Выберите Дату",
-    "workerVoucher.WorkerDateRangePicker.noRanges": "Промежутки времени не были зарегистрированы",
+    "workerVoucher.WorkerDateRangePicker.noRanges": "Нет зарегистрированных периодов действия. Заполните начальную и конечную даты и нажмите кнопку подтверждения, чтобы добавить новый период.",
     "workerVoucher.WorkerDateRangePicker.notAvailable": "НЕ ДОСТУПНО",
     "workerVoucher.unassigned": "НЕПРИСВОЕН",
     "workerVoucher.VoucherAcquirementPaymentModal.title": "Сводка по приобретению ваучера",
@@ -1472,5 +1472,6 @@
     "workerVoucher.GroupDetailsPage.mutation.success": "Ваши изменения были успешно сохранены.",
     "workerVoucher.GroupDetailsPage.mutation.error": "Произошла ошибка при сохранении изменений. {detail}",
     "workerVoucher.GroupDetailsPage.delete.success": "Группа была успешно удалена.",
-    "workerVoucher.GroupDetailsPage.delete.error": "Произошла ошибка при удалении группы. {detail}"
+    "workerVoucher.GroupDetailsPage.delete.error": "Произошла ошибка при удалении группы. {detail}",
+    "core.InfoButton.tooltip": "Дополнительная информация"
 }
