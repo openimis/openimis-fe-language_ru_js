@@ -1478,5 +1478,15 @@
     "workerVoucher.VoucherAssignmentForm.form.moreInfo": "Определите работников, которым вы хотите назначить неперсонифицированные ваучеры. Вы можете назначить ваучеры сразу нескольким работникам. Сначала выберите работников, затем задайте периоды, в течение которых ваучеры будут действительны. Подтвердите назначение, нажав кнопку в правом верхнем углу.",
     "workerVoucher.WorkerImportDialog.moreInfo": "Используя эту функцию, вы можете немедленно импортировать своих работников. Вы можете выбрать импорт всех работников, работников, с которыми вы уже работали, работников только за предыдущий день или работников из конкретной группы. После выбора опции нажмите кнопку Импорт, чтобы продолжить.",
     "workerVoucher.workerImport.groupOfWorkers": "Добавить работников из определённой группы",
-    "workerVoucher.GroupPicker.label": "Группа"
+    "workerVoucher.GroupPicker.label": "Группа",
+    "workerVoucher.deleteWorker.success": "Сотрудник(и) успешно удален(ы).",
+    "workerVoucher.deleteWorker.error": "Произошла ошибка при удалении сотрудника(ов). {detail}",
+    "workerVoucher.saveWorker.success": "Сотрудник успешно сохранен.",
+    "workerVoucher.saveWorker.error": "Произошла ошибка при сохранении сотрудника.",
+    "workerVoucher.PublicVoucherDetailsPage.title": "Проверка Публичного Ваучера",
+    "workerVoucher.PublicVoucherDetailsPage.backButton": "Назад",
+    "workerVoucher.PublicVoucherDetailsPage.noVoucherUuid": "UUID ваучера не предоставлен.",
+    "workerVoucher.PublicVoucherDetailsPage.voucherNotFound": "Ваучер не найден.",
+    "workerVoucher.PublicVoucherDetailsPage.invalidVoucherFound": "Ваучер больше не действителен. Он был действителен на дату {assignedDate} у работодателя {employer}.",
+    "workerVoucher.PublicVoucherDetailsPage.voucherFound": "Ваучер найден. Он действителен на дату {assignedDate} у работодателя {employer}."
 }
